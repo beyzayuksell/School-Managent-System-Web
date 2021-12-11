@@ -9,3 +9,4 @@ MySQL
 Thymeleaf
 Eclipse
 
+NOTE: You must change MySQL password in this project.
