@@ -10,3 +10,5 @@ Thymeleaf
 Eclipse
 
 NOTE: You must change MySQL password for your own project.
+
+Wiki -> Project Images 
