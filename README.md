@@ -1,4 +1,4 @@
-# SchoolManagentSystem-Web
+# SchoolManagentSystem-Web Project
 
 Tools & Technologies used:
 
