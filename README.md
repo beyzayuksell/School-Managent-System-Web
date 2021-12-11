@@ -1,6 +1,6 @@
 # SchoolManagentSystem-Web
 
-Tools & Technologies usee:
+Tools & Technologies used:
 
 Spring Boot
 Spring MVC
