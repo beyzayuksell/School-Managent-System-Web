@@ -1,19 +1,19 @@
 # SchoolManagentSystem-Web Project
 
-Tools & Technologies used:
+## Tools & Technologies 
 
-Spring Boot
+### Spring Boot
 
-Spring MVC
+### Spring MVC
 
-Spring Data JPA(Hibernate)
+### Spring Data JPA(Hibernate)
 
-MySQL
+### MySQL
 
-Thymeleaf
+### Thymeleaf
 
-Eclipse
+### Eclipse
 
-NOTE: You must change MySQL password for your own project.
+# NOTE: You must change MySQL password for your own project.
 
-Wiki -> Project Images 
+.. ### Wiki -> Project Images 
