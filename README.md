@@ -1,5 +1,7 @@
 # SchoolManagentSystem-Web Project
 
+![](https://komarev.com/ghpvc/?username=beyzayuksell)
+
 ## Tools & Technologies 
 
 ### Spring Boot
